@@ -10,7 +10,7 @@
 .preloader-chasing-squares {
   width: 50px;
   height: 50px;
-  line-height: 19px;
+  line-height: 19px; 
 }
 
 .preloader-chasing-squares .square {
