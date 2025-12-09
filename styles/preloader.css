@@ -13,7 +13,7 @@
   line-height: 19px; 
 }
 
-.preloader-chasing-squares .square {
+.preloader-chasing-squares .square { 
   display: inline-block;
   width: 15px;
   height: 15px;
