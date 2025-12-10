@@ -1,7 +1,7 @@
 .preloader {
   position: absolute;
   inset: 0;
-  display: flex;
+  display: flex; 
   justify-content: center;
   align-items: center;
   background: #545050;
